@@ -17459,3 +17459,18 @@ Parameters: { "use_label_encoder" } are not used.
 
   bst.update(dtrain, iteration=i, fobj=obj)
 
+2025-07-01 14:08:02,951:WARNING:d:\ML_notes\.conda\Lib\site-packages\xgboost\training.py:183: UserWarning: [14:08:02] WARNING: C:\actions-runner\_work\xgboost\xgboost\src\learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+
+2025-07-01 14:09:56,747:WARNING:d:\ML_notes\.conda\Lib\site-packages\xgboost\training.py:183: UserWarning: [14:09:56] WARNING: C:\actions-runner\_work\xgboost\xgboost\src\learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+
+2025-07-01 14:10:21,195:WARNING:d:\ML_notes\.conda\Lib\site-packages\xgboost\training.py:183: UserWarning: [14:10:21] WARNING: C:\actions-runner\_work\xgboost\xgboost\src\learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+
