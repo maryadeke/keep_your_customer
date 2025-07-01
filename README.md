@@ -1,4 +1,5 @@
 # 🧠 Keep Your Customer Model_ML | Group 6
+Link to the application: https://maryadeke-keep-your-customer-app-mary-2pmt76.streamlit.app/
 
 ## 📌 Group Members
 - Adeke Mary  
