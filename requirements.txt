@@ -5,3 +5,5 @@ xgboost
 joblib
 matplotlib
 seaborn
+python-docx
+openpyxl
