@@ -21619,3 +21619,8 @@ Parameters: { "use_label_encoder" } are not used.
 
   bst.update(dtrain, iteration=i, fobj=obj)
 
+2025-07-21 11:45:42,760:WARNING:C:\Users\Alma Tech PC\AppData\Roaming\Python\Python311\site-packages\xgboost\training.py:183: UserWarning: [11:45:42] WARNING: C:\actions-runner\_work\xgboost\xgboost\src\learner.cc:738: 
+Parameters: { "use_label_encoder" } are not used.
+
+  bst.update(dtrain, iteration=i, fobj=obj)
+
